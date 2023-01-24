@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: af98e06a904180d4a948021adc3e8faf
+  - enabled: 1
+    path: Assets/Scenes/Hud.unity
+    guid: 1ce5c95153a85bf4e89aab90090ed86b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 04185d0e11b44584dbdc15231dfc8433
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: f99671bcf57120e409b1bfbc36b4c069
+  - enabled: 1
+    path: Assets/Scenes/Level5 (Boss).unity
+    guid: 8ade5859155077343ac26f68f2a2d783
+  - enabled: 1
+    path: Assets/Scenes/LevelLoader.unity
+    guid: fb8784a4dbaba6d44871d27c1cfca0f3
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 38030d6790fb8bb40aa42e30aeea5c60
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3096b7b1c06f0d84caf3d17f78eced7e, type: 2}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65927163014c4b7594cab759c54ad3f5, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  _url: https://docs.google.com/spreadsheets/d/e/2PACX-1vQRopjGzFgGnLiavauzMFnxqrYNLMwpIqNHbKAYurupkQvBsQikGNB10JSOfOlaAKMp0q5dgcLXugjI/pub?gid=0&single=true&output=tsv
+  _localeItems:
+  - Key: menu_title
+    Value: "menu\r"
+  - Key: button_start
+    Value: "start\r"
+  - Key: button_option
+    Value: "options\r"
+  - Key: button_exit
+    Value: "exit\r"
+  - Key: selected_language
+    Value: "Selected language is {0}\r"
+  - Key: button_back
+    Value: "back\r"
+  - Key: button_locales
+    Value: "languages\r"
+  - Key: some-icon
+    Value: "some-icon/resource/1\r"
+  - Key: Health
+    Value: "Health\r"
+  - Key: Speed
+    Value: "Speed\r"
+  - Key: RangeDamage
+    Value: "RangeDamage\r"
+  - Key: level-up
+    Value: "Upgrade\r"
+  - Key: shield-info
+    Value: Use shield for self protection

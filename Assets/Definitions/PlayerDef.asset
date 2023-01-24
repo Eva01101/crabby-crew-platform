@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff273c02db34561b47f82abe3edfac5, type: 3}
+  m_Name: PlayerDef
+  m_EditorClassIdentifier: 
+  _inventorySize: 10
+  _maxHealth: 10
+  _stats:
+  - _name: Health
+    _id: 0
+    _icon: {fileID: 21300000, guid: 2122bdaa1453cbd42a6221135b745b51, type: 3}
+    _levels:
+    - _value: 5
+      _price:
+        _itemId: Coin
+        _count: 0
+    - _value: 10
+      _price:
+        _itemId: Coin
+        _count: 10
+    - _value: 20
+      _price:
+        _itemId: Coin
+        _count: 50
+    - _value: 40
+      _price:
+        _itemId: Coin
+        _count: 100
+  - _name: Speed
+    _id: 1
+    _icon: {fileID: 21300000, guid: 6e492537f6fc09d49a96b4ad70c58ba2, type: 3}
+    _levels:
+    - _value: 4
+      _price:
+        _itemId: Coin
+        _count: 0
+    - _value: 5
+      _price:
+        _itemId: Coin
+        _count: 10
+    - _value: 6
+      _price:
+        _itemId: Coin
+        _count: 20
+  - _name: RangeDamage
+    _id: 2
+    _icon: {fileID: 21300000, guid: 73216ddf2e8ad5744bfc9ac64306399d, type: 3}
+    _levels:
+    - _value: 1
+      _price:
+        _itemId: Coin
+        _count: 0
+    - _value: 2
+      _price:
+        _itemId: Coin
+        _count: 5
+    - _value: 2
+      _price:
+        _itemId: Coin
+        _count: 10
+    - _value: 3
+      _price:
+        _itemId: Coin
+        _count: 50
+    - _value: 4
+      _price:
+        _itemId: Coin
+        _count: 100
+  - _name: CriticalDamage
+    _id: 3
+    _icon: {fileID: 21300000, guid: 04160d6f36dd72245805ca23c27fe0e9, type: 3}
+    _levels:
+    - _value: 10
+      _price:
+        _itemId: Coin
+        _count: 0
+    - _value: 20
+      _price:
+        _itemId: Coin
+        _count: 5
+    - _value: 30
+      _price:
+        _itemId: Coin
+        _count: 10
+    - _value: 90
+      _price:
+        _itemId: Coin
+        _count: 50

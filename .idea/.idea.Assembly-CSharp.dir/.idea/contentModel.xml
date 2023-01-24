@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity\Platformer" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="PixelCrew" t="Include">
+          <e p="Components" t="Include">
+            <e p="DestroyObjectComponent.cs" t="Include" />
+            <e p="EnterTriggerComponents.cs" t="Include" />
+            <e p="ReloadLevelComponent.cs" t="Include" />
+          </e>
+          <e p="Heroes.cs" t="Include" />
+          <e p="HeroInPutReader.cs" t="Include" />
+          <e p="LayerCheck.cs" t="Include" />
+        </e>
+        <e p="UserInPut" t="Include">
+          <e p="HeroInputActions.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Tanya\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tanya\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
